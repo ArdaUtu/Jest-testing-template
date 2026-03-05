@@ -8,6 +8,7 @@ export function getRank(score) {
 // Telt twee scores bij elkaar op
 export function addScores(score1, score2) {
   return score1 + score2;
+ 
 }
 
 // Checkt of een speler gewonnen heeft (score >= 100)
